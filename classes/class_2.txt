@@ -1,0 +1,15 @@
+Restaurant
+
+class: employee
+
+attributes:
+jobTitle (string)
+hourlyWage (float)
+hasBenefits (boolean)
+rehireStatus (boolean)
+
+methods:
+promote (changes jobTitle attribute)
+raiseWage (adds an amount to hourlyWage attribute)
+giveBenefits (sets hasBenefits attribute to true)
+fireEmployee (sets rehireStatus to false)
