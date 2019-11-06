@@ -1,0 +1,15 @@
+Restaurant
+
+class: menuItem
+
+attributes:
+itemDescription (string)
+itemPrice (float)
+seasons (array)
+onCurrentMenu (boolean)
+
+methods:
+updateDescription (changes the itemDescription attribute)
+changePrice (changes the itemPrice attribute)
+checkSeason (checks seasons attribute for a given value)
+removeItem (changes onCurrentMenu attribute to false)
