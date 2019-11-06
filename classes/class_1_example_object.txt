@@ -1,0 +1,13 @@
+Royale with Cheese
+
+attributes:
+itemDescription: "A French hamburger topped with American cheese."
+itemPrice: 7.99
+seasons: ["spring", "summer", "fall", "winter"]
+onCurrentMenu: true
+
+methods:
+updateDescription: ("A French Quarter Pounder with Cheese")
+changePrice: (6.99)
+checkSeason("fall"): (true)
+removeItem: (false)
