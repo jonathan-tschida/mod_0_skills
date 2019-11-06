@@ -1,0 +1,13 @@
+Jonathan T
+
+attributes:
+jobTitle: "Wine Associate"
+hourlyWage: 15.00
+hasBenefits: false
+rehireStatus: true
+
+methods:
+promote: ("Assistant Wine Manager")
+raiseWage: (17.50)
+giveBenefits: true
+fireEmployee: false
